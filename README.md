@@ -12,7 +12,7 @@ Needs pyserial, a working USB to serial adapter. Add your USB adapter device pat
 
 Currently, the quick and dirty command syntax is:
 
-python ./pcr000.py G MMM KKK HHH ff mm
+python ./pcr000.py G MMM KKK HHH mm ff
 
 Where:
 G = GHz, MMM = MHz, KKK = kHz, HHH = Hz, mm = mode, ff = filter
