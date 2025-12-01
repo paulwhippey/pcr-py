@@ -1,3 +1,11 @@
+# 
+# Quick and dirty Python script to control an Icom PCR-1000 receiver
+#
+#Based on the work that GM4JJJ published here: http://www.gm4jjj.co.uk/PCR1000.html
+# Many, many thanks for publishing this info.
+# This would be impossible without it!
+#
+
 import serial
 import sys
 import time
