@@ -18,20 +18,20 @@ Where:
 G = GHz, MMM = MHz, KKK = kHz, HHH = Hz, mm = mode, ff = filter
 
 Mode is one of:
-00 = LSB
-01 = USB
-02 = AM
-03 = CW
-04 = Not used or Unknown
-05 = NFM
-06 = WFM
+- 00 = LSB
+- 01 = USB
+- 02 = AM
+- 03 = CW
+- 04 = Not used or Unknown
+- 05 = NFM
+- 06 = WFM
 
 Filter is one of:
-00 = 3 Khz (actually 2.8 Khz) (CW USB LSB AM)
-01 = 6 Khz (CW USB LSB AM NFM)
-02 = 15 Khz (AM NFM)
-03 = 50 Khz (AM NFM WFM)
-04 = 230 Khz (WFM)
+- 00 = 3 Khz (actually 2.8 Khz) (CW USB LSB AM)
+- 01 = 6 Khz (CW USB LSB AM NFM)
+- 02 = 15 Khz (AM NFM)
+- 03 = 50 Khz (AM NFM WFM)
+- 04 = 230 Khz (WFM)
 
 ### Example
 
