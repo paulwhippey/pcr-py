@@ -6,7 +6,7 @@ Many, many thanks to GM4JJJ for publishing the protocol for this radio! This wou
 
 ## Dependencies
 
-Needs pyserial, a working USB to serial adapter. Add your USB adapter device path into the script at the serialPort variable.
+Needs pyserial and a working USB to serial adapter. Add your USB adapter device path into the script at the serialPort variable.
 
 ## How To Use
 
